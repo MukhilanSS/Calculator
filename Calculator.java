@@ -67,4 +67,5 @@ public class Calculator {
         int ans = num1 / num2;
         return "The division of " + num1 + " by " + num2 + " is " + ans;
     }
+
 }
