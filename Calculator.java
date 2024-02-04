@@ -41,8 +41,7 @@ public class Calculator {
                 break;
             } else {
                 System.out.println(RED + "Choose a valid number (1-5)" + RESET);
-            }
-        } while (choice != 5);
+            }} while (choice != 5);
     }
 
     public static String Sum(int num1, int num2) {
