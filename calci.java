@@ -38,7 +38,6 @@ public class calci {
                 default:
                     System.out.println("Choose Other Options");
                     break;
-            }
-        } while (op != 5);
+            } } while (op != 5);
     }
 }
